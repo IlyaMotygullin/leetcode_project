@@ -1,4 +1,5 @@
 package org.example;
+
 public class Task {
     private int idTask;
     private String content;
